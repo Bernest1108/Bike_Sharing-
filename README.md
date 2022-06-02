@@ -37,6 +37,7 @@ Gender breakdown below
 
 
 This is accentuated by the fact that the similar ride heat map repeats itself when looking at customer vs subscriber with the subscribers generally only riding on the weekdays with an up-tick in customer rides on the weekend
+
 ![image](https://user-images.githubusercontent.com/100445489/171639017-6ac8bef0-94bd-4f9c-835a-c0447c9f40e4.png)
 
 
