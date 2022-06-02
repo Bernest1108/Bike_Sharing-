@@ -44,10 +44,13 @@ This is accentuated by the fact that the similar ride heat map repeats itself wh
 
 When reviewing the distribution of rides during the different rush hours across the city, the ending locations for rides in the morning rush hour and the starting locations during the evening rush hour are concentrated in Lower Manhattan where most of the cities corporate jobs are concentrated as well.
 
+
 Starting locations evening rush hour.
+
 ![image](https://user-images.githubusercontent.com/100445489/171639258-2a0274fd-0f9b-41e8-a76c-c20c110d1e2b.png)
 
 Ending locations moring rush hour.
+
 ![image](https://user-images.githubusercontent.com/100445489/171639459-3a18d4a9-7d56-4bb4-9173-a5ab68c18e9b.png
 
 
