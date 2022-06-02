@@ -8,5 +8,6 @@ Link to Results  https://github.com/Bernest1108/Bike_Sharing-/tree/main/Results
 The data throughout the month of August 2019, a couple of trends became clear.
 As far as demographics of the customer base go, most of the customer base consists of regular subscribers, with 81% of the total customer base being subscribers.
 
-![image](https://user-images.githubusercontent.com/100445489/171635610-6ac16e04-0765-4661-927b-0dc541b8f283.png)
+![image](https://user-images.githubusercontent.com/100445489/171635874-baa62035-926b-4857-b4f1-390faebb9603.png)
+
 
