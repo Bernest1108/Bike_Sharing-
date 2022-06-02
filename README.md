@@ -25,6 +25,7 @@ This pattern remains when you look at the gender breakdown.
 
 
 It may appear as though female riders are not riding during that time because male subset is so much darker, but that is because the total riders skews so much male, that the distribution of color looks off. When male riders are filtered out, we can see the same concentration prominently appear for female customers as well.
+
 ![image](https://user-images.githubusercontent.com/100445489/171637838-1c4117bd-a61b-4c17-8d8c-dce5a97717a4.png)
 
 
